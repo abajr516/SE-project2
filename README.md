@@ -4,6 +4,9 @@ Software Engineering Methodology Project 2: Debug
 
 Team Members: Angel Bajracharya, Derek Feliu, Giovanny Joseph, Nicole Magpantay, Christopher Miles
 
+# Documentation
+Find the final documentation report [here](https://github.com/abajr516/SE-project2/blob/main/Doc/Documentation_Demo_Github.pdf) and the 20-minute demo [here](https://www.youtube.com/watch?v=sVJt0uni0gQ)
+
 # How to use
 
 **Requirements:**
